@@ -1,0 +1,15 @@
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\bin\Debug\net9.0\denilson-primer-parcial.exe
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\bin\Debug\net9.0\denilson-primer-parcial.deps.json
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\bin\Debug\net9.0\denilson-primer-parcial.runtimeconfig.json
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\bin\Debug\net9.0\denilson-primer-parcial.dll
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\bin\Debug\net9.0\denilson-primer-parcial.pdb
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\obj\Debug\net9.0\denilson-primer-parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\obj\Debug\net9.0\denilson-primer-parcial.AssemblyInfoInputs.cache
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\obj\Debug\net9.0\denilson-primer-parcial.AssemblyInfo.cs
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\obj\Debug\net9.0\denilson-primer-parcial.csproj.CoreCompileInputs.cache
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\obj\Debug\net9.0\denilson-primer-parcial.sourcelink.json
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\obj\Debug\net9.0\denilson-primer-parcial.dll
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\obj\Debug\net9.0\refint\denilson-primer-parcial.dll
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\obj\Debug\net9.0\denilson-primer-parcial.pdb
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\obj\Debug\net9.0\denilson-primer-parcial.genruntimeconfig.cache
+C:\Users\Denilson\examen1\parcial\denilson-primer-parcial\obj\Debug\net9.0\ref\denilson-primer-parcial.dll

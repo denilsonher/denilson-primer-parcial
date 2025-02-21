@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "denilson-primer-parcial/1.0.0": {
+        "runtime": {
+          "denilson-primer-parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "denilson-primer-parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
