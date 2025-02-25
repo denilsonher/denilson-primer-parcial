@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("denilson-primer-parcial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cca045730ced070aaad35e09ba6b2bf64ce0d197")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbabde59d845a54fc3dc0e380969f4d53aee1a46")]
 [assembly: System.Reflection.AssemblyProductAttribute("denilson-primer-parcial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("denilson-primer-parcial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
